@@ -47,3 +47,5 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+theme: jekyll-theme-hacker
